@@ -7,7 +7,7 @@ things properly before claiming they work.
 - Micromouse robotics: custom embedded C++ on RP2040, PID control, flood fill. Three national wins.
 - Retrieval and ML systems: RAG pipelines, calibrated classifiers, benchmarks I actually publish.
 - Full-stack when a system needs a front door: MERN, JWT, Redux Toolkit.
-- Competitive programming: 1000+ problems solved. Codeforces 1377, CodeChef 1654, LeetCode 1805.
+- Competitive programming: 1000+ problems solved. Codeforces 1404, CodeChef 1654, LeetCode 1805.
 
 ---
 
