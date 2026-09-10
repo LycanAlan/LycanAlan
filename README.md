@@ -1,6 +1,6 @@
 ## Ali Ansari
 
-Student at LNMIIT Jaipur, graduating May 2027. Ranked 2nd of 142 in my department, CGPA 8.70.
+Student at LNMIIT Jaipur, graduating May 2027. Ranked 1st of 142 for 6 semesters, CGPA 8.70.
 I work on agentic AI/RAG, ML and backend systems — the common thread is measuring
 things properly before claiming they work.
 
